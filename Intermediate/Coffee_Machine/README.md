@@ -1,5 +1,5 @@
-# Coffee Machine Interactive Project
-Welcome to the Coffee Machine Interactive Project, which is programmed in Python using the Object-Oriented Programming (OOP) principles!
+# Coffee Machine Project
+Welcome to the Coffee Machine! A project that is programmed in Python using the Object-Oriented Programming (OOP) principles!
 
 ## Project Overview
 This project simulates a coffee machine where you can order your favorite coffee, insert coins, and receive a freshly brewed cup in return.
