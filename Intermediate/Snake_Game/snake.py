@@ -43,7 +43,7 @@ class Snake:
         x = self.head.xcor()
         y = self.head.ycor()
         print(f"x: {x}, abs: {abs(int(x))}, y: {y}, abs: {abs(int(y))}")
-        if abs(int(x)) >= (400 - 20) or abs(int(y)) >= 310:
+        if abs(int(x)) >= (300 - 10) or abs(int(y)) >= (300 - 10):
             return False
         return True
 

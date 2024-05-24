@@ -1,6 +1,6 @@
 # Snake Game Project
 
-Welcome to the Snake Game! This project is a classic implementation of the snake game using Python's Turtle graphics library.
+Welcome to the Snake Game! This project is programmed in Python using the Object-Oriented Programming (OOP) principles!
 
 ## Project Overview
 
