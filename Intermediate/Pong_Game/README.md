@@ -23,9 +23,9 @@ This project recreates the classic Pong game where two paddles compete to catch 
 2. Navigate to the project directory:
 
 3. Run the Python script to start the game:
-```bash
-python main.py
-```
+    ```bash
+    python main.py
+    ```
 
 ### Player 1 Controls:
 

@@ -32,7 +32,7 @@ while not is_game_over:
         if not ball.handle_paddles_collision(left_paddle):
             is_game_over = ball.check_if_ball_escaped()
             if is_game_over:
-                scoreboard.game_over_text()
+                scoreboard.display_game_over()
         else:
             scoreboard.increase("left")
     else:

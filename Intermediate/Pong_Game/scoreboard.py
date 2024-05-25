@@ -32,7 +32,7 @@ class Scoreboard(Turtle):
         self.write(f"  {self.right_score}  ", align=RIGHT_ALIGNMENT, font=FONT)
         self.write(f"  {self.left_score}  ", align=LEFT_ALIGNMENT, font=FONT)
 
-    def game_over_text(self):
+    def display_game_over(self):
         self.home()
         self.write("Game Over!", align=CENTER_ALIGNMENT, font=FONT)
 

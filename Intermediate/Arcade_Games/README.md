@@ -37,9 +37,4 @@ python sketching_game.py
 python turtles_race.py
 ```
 
-Ensure you have the following Python package installed:
-```bash
-pip install turtle
-```
-
 ## *Enjoy The Games!* 🎮

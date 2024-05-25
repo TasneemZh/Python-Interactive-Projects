@@ -26,6 +26,9 @@ This project includes several mini-programs that utilize the Turtle graphics lib
 
     Recreates a Hirst-like painting by extracting colors from an image using the colorgram package and painting dots with those colors.
 
+
+## How to Start
+
 Run the Python script for the program you want to see in action:
 ```bash
 python spirograph_drawing.py
@@ -36,7 +39,7 @@ python hirst_painting.py
 
 But first, install the necessary packages using pip:
 ```bash
-pip install turtle colorgram.py
+pip install colorgram.py
 ```
 
 ## *Enjoy The Art!* 🎨

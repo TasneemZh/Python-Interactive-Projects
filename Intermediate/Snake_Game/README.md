@@ -29,13 +29,6 @@ Use the arrow keys to control the snake:
 
 ➡️: Move right
 
-
-Ensure you have the following Python package installed:
-
-```bash
-pip install turtle
-```
-
 Run the Python script to start the game:
 ```bash
 python main.py

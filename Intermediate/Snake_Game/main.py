@@ -36,10 +36,10 @@ while is_game_on:
         snake.grow()
     is_game_on = snake.check_collide_with_boarders()
     if not is_game_on:
-        scoreboard.game_over_text()
+        scoreboard.display_game_over()
     else:
         is_game_on = snake.check_collide_with_body()
         if not is_game_on:
-            scoreboard.game_over_text()
+            scoreboard.display_game_over()
 
 screen.exitonclick()
