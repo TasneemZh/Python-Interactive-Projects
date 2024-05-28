@@ -23,10 +23,10 @@ screen.onkey(snake.down, "Down")
 screen.onkey(snake.right, "Right")
 screen.onkey(snake.left, "Left")
 
-while is_game_on:
+while True:
     # update the screen with whatever action that was taken
     # after 1-second delay so that the snake looks as it is
-    # one piece instead of three squares following one another
+    # one piece instead of multiple squares following one another
     screen.update()
     time.sleep(0.1)
     snake.move()

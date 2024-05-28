@@ -39,17 +39,26 @@ class Snake:
             self.turtles[part].goto(x, y)
         self.head.forward(MOVING_DISTANCE)
 
+    def reset(self):
+        for part in self.turtles:
+            part.goto(1000, 1000)
+        self.turtles = []
+        self.create_snake()
+        self.head = self.turtles[0]
+
     def check_collide_with_boarders(self):
         x = self.head.xcor()
         y = self.head.ycor()
         print(f"x: {x}, abs: {abs(int(x))}, y: {y}, abs: {abs(int(y))}")
         if abs(int(x)) >= (300 - 10) or abs(int(y)) >= (300 - 10):
+            self.reset()
             return False
         return True
 
     def check_collide_with_body(self):
         for part in self.turtles[1:]:
             if self.head.distance(part) < 10:
+                self.reset()
                 return False
         return True
 
