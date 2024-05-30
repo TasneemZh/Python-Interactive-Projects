@@ -10,11 +10,15 @@ This project mimics the classic "Guess the US States" game. The player inputs th
 
 1. Game Start: The game displays a blank map of the United States.
 
+
 2. Guess the State: The player types the name of a US state.
+
 
 3. Correct Guess: If the guess is correct, the state name is displayed on the map, and the guesses score increases.
 
+
 4. Incorrect Guess: If the guess is incorrect, the player is prompted to try again.
+
 
 5. Game End: When the player chooses to exit the game, a CSV file is generated containing the names of the states that were not guessed.
 
