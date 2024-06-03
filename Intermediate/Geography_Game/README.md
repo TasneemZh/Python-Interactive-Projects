@@ -35,7 +35,7 @@ This project mimics the classic "Guess the US States" game. The player inputs th
 
 - Run the Python script to start the game:
     ```bash
-    python main.py
+    python send_quotes.py
     ```
 
 ## *Enjoy the Geography!* 🌍

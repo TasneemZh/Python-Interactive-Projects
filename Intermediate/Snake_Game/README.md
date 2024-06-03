@@ -31,7 +31,7 @@ Use the arrow keys to control the snake:
 
 Run the Python script to start the game:
 ```bash
-python main.py
+python send_quotes.py
 ```
 
 ## *Play The Snake!* 🐍

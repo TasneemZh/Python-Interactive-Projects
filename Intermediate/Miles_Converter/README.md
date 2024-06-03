@@ -23,7 +23,7 @@ This project provides a graphical user interface for converting miles to kilomet
 - Run the Python script to start the application:
 
     ```bash
-    python main.py
+    python send_quotes.py
   ```
 
 ## *Enjoy the Application!* 🧮

@@ -23,7 +23,7 @@ This project recreates the "Crossing the Street" game in which the player contro
 3. Run the Python script to start the game:
     
    ```bash
-    python main.py
+    python send_quotes.py
     ```
 
 4. Use the "Up" arrow key to control the turtle and cross the street without colliding with the cars.

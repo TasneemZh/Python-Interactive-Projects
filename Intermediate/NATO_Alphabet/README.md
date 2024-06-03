@@ -35,7 +35,7 @@ This project reads the NATO phonetic alphabet from a CSV file and converts it in
 
 - Run the Python script to start the game:
     ```bash
-    python main.py
+    python send_quotes.py
     ```
   
 ## *Enjoy the* 🔠 *!*

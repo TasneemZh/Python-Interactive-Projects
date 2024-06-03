@@ -24,7 +24,7 @@ This project displays a French word for three seconds, followed by its English t
 
 3. Run the Python script to start the application:
     ```bash
-    python main.py
+    python send_quotes.py
     ```
 
 4. Install the Pandas package using pip if you haven't already:

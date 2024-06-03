@@ -25,7 +25,7 @@ This project provides a graphical user interface for managing passwords. Users c
 3. Run the Python script to start the application:
 
     ```bash
-    python main.py
+    python send_quotes.py
    ```
 
 ## *Enjoy the* 🔒 *!*

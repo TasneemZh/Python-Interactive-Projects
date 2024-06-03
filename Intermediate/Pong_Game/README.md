@@ -24,7 +24,7 @@ This project recreates the classic Pong game where two paddles compete to catch 
 
 3. Run the Python script to start the game:
     ```bash
-    python main.py
+    python send_quotes.py
     ```
 
 ### Player 1 Controls:
