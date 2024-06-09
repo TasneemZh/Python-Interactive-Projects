@@ -1,7 +1,7 @@
 import os
 import requests
 from twilio.rest import Client
-from dotenv import load_dotenv  # pip install python-dotenv
+from dotenv import load_dotenv
 
 load_dotenv(".env")
 
