@@ -27,7 +27,7 @@ This project is designed to keep you informed about impending rainy weather by s
 
 4. Run the script:
     ```bash
-    python main.py
+    python main.py.py
     ```
 
 ## *Enjoy the* 🌧️ *!*

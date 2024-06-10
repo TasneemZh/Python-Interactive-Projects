@@ -24,7 +24,7 @@ This project is a general knowledge quiz that allows users to answer True/False 
 
 - Run the Python script to start the application:
     ```bash
-    python main.py
+    python main.py.py
     ```
 
 ## *Start The Quiz Now!* 🧠

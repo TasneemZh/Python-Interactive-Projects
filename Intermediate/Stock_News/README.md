@@ -43,7 +43,7 @@ This project checks for a 5% increase or decrease in a stock's price between yes
 
 5. Run the following script:
     ```bash
-    python main.py
+    python main.py.py
     ```
 
 ## *Enjoy the* 📰 *!*

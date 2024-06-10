@@ -30,7 +30,7 @@ This project collects user progress data, updates it on a graph using the Pixela
 
 3. Execute the Python script to start tracking your progress:
     ```bash
-    python main.py
+    python main.py.py
     ```
 
 ## *Enjoy the* 📈 *!*
