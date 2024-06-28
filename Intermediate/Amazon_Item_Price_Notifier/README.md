@@ -43,9 +43,9 @@ This project scrapes Amazon for the price of a specified item and triggers an em
 
 ## Usage
 
-1. **Configure the item and base price**:
+1. Configure the item and base price:
    - In `main.py`, set the `ITEM_BASE_PRICE` and `ITEM_NAME` variables.
-2. **Run the script**:
+2. Run the script:
    ```bash
    python main.py
    ```
