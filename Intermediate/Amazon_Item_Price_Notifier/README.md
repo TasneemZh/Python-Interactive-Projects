@@ -44,12 +44,7 @@ This project scrapes Amazon for the price of a specified item and triggers an em
 ## Usage
 
 1. **Configure the item and base price**:
-   - In `main.py`, set the `ITEM_BASE_PRICE` and `ITEM_NAME` variables:
-     ```python
-     ITEM_BASE_PRICE = 30
-     ITEM_NAME = "Loop-Quiet-Noise-Reduction-Earplugs"
-     ```
-
+   - In `main.py`, set the `ITEM_BASE_PRICE` and `ITEM_NAME` variables.
 2. **Run the script**:
    ```bash
    python main.py
