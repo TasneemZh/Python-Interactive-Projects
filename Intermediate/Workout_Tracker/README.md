@@ -32,7 +32,7 @@ The Workout Tracker Project uses the Nutritionix API to fetch workout data based
 - Ensure you have the following Python packages installed:
 
     ```bash
-    pip install requests
+    pip install requests python-dotenv
     ```
 
 - Run the following script to start tracking your workouts:

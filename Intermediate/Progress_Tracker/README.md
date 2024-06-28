@@ -25,7 +25,7 @@ This project collects user progress data, updates it on a graph using the Pixela
 
 2. Ensure you have the following Python packages installed:
     ```bash
-    pip install requests
+    pip install requests python-dotenv
     ```
 
 3. Execute the Python script to start tracking your progress:

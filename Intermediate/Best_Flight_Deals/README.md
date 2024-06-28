@@ -26,7 +26,7 @@ c- Add your API keys and other necessary credentials to a local `.env` file.
 
 d- Ensure you have the following Python packages installed:
 ```bash
-pip install requests
+pip install requests python-dotenv
 ```
 
 e- Execute the main Python script to start tracking flight deals:

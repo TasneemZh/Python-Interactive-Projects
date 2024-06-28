@@ -38,7 +38,7 @@ This project checks for a 5% increase or decrease in a stock's price between yes
 4. Ensure you have the following Python packages installed:
 
     ```bash
-    pip install requests twilio
+    pip install requests twilio python-dotenv
     ```
 
 5. Run the following script:
